@@ -1,5 +1,5 @@
 #!/bin/bash
-trap "exit" SIGINT
+
 mkdir /var/htdocs
 
 while :
